@@ -16,5 +16,6 @@ h2 {
 
 footer {
     height: 30px;
-    background-color: indigo;
+    border-top: gray;
+    background-color: green;
 }
